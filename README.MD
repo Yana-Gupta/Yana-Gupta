@@ -5,8 +5,7 @@
 - 🔭 I’m currently working on full stack projects.
 - 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate on open source.
-- 💬 Ask me about React and Node.
-- 😄 Pronouns: she/her/hers.
+- 👩‍💻 More of me at [Portfoilo Website](https://yana-gupta-portfolio.vercel.app/)
 
 #### GitHub Stats 📊
 
