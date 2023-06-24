@@ -7,7 +7,9 @@
 
 - ### 👨‍💻&nbsp; All of my projects are available at [yanagupta.me](https://yanagupta.me)
 
-- ### 💬 &nbsp;Ask me about **React, Next.js, Gatsby, AWS, GCP, Github Actions, Firebase or anything else related to Web Development**
+- ### 🌱 &nbsp;I’m currently learning Cloud Computing
+
+- ### 💬 &nbsp;Ask me about **React, Next.js, Node, Express or anything related to Web Development
 
 - ### 👨‍💼&nbsp; I'm open for oppurtunities, get my Resume [here](https://drive.google.com/file/d/19o3cNTYQcTW5u56IvA6CRGGMpBipq7RI/view?usp=sharing)
 
