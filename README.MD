@@ -1,15 +1,29 @@
-### Hi there 👋
+<a href="https://yanagupta.me">
+    <img src="./assets/web.png">
+</a>
 
-#### About Me 💫
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yana-Gupta" alt="Yana-Gupta" /> </p>
 
-- 🔭 I’m currently working on full stack projects.
-- 🌱 I’m currently learning web development.
-- 👯 I’m looking to collaborate on open source.
-- 👩‍💻 More of me at [Portfoilo Website](https://yana-gupta-portfolio.vercel.app/)
 
-#### GitHub Stats 📊
+- ### 👨‍💻&nbsp; All of my projects are available at [https://yanagupta.me](https://yanagupta.me)
 
-![](https://github-readme-stats.vercel.app/api?username=Yana-Gupta&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yana-Gupta&theme=dark&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yana-Gupta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- ### 💬 &nbsp;Ask me about **React, Next.js, Gatsby, AWS, GCP, Github Actions, Firebase or anything else related to Web Development**
+
+- ### 👨‍💼&nbsp; I'm open for oppurtunities, get my Resume [here](https://drive.google.com/file/d/19o3cNTYQcTW5u56IvA6CRGGMpBipq7RI/view?usp=sharing)
+
+
+
+### 👀 My Github Stats
+
+<p align="center"> <a href="https://git.io/streak-stats"> <img alt="Yana Gupta's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Yana-Gupta&theme=dark&hide_border=false"/></a> </p>
+
+
+<p align="center"> <a href="https://git.io/streak-stats"> <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yana-Gupta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> </a> </p>
+
+
+
+### 📫 Reach me out
+<a href="https://yanagupta.me" target="blank">Website</a> | 
+<a href="https://twitter.com/yana_gupta_1/" target="blank">Twitter</a> | 
+<a href="https://linkedin.com/in/Yana-Gupta" target="blank">Linkedin</a> | 
+<a href="https://www.instagram.com/yana.guptaa/" target="blank">Instagram</a> 
