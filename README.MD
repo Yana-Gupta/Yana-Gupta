@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yana-Gupta" alt="Yana-Gupta" /> </p>
 
 
-- ### 👨‍💻&nbsp; All of my projects are available at [https://yanagupta.me](https://yanagupta.me)
+- ### 👨‍💻&nbsp; All of my projects are available at [yanagupta.me](https://yanagupta.me)
 
 - ### 💬 &nbsp;Ask me about **React, Next.js, Gatsby, AWS, GCP, Github Actions, Firebase or anything else related to Web Development**
 
