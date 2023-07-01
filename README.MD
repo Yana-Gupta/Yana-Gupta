@@ -26,6 +26,6 @@
 
 ### 📫 Reach me out
 <a href="https://yanagupta.me" target="blank">Website</a> | 
-<a href="https://twitter.com/yana_gupta_1/" target="blank">Twitter</a> | 
+<a href="https://twitter.com/yana_guptta/" target="blank">Twitter</a> | 
 <a href="https://linkedin.com/in/Yana-Gupta" target="blank">Linkedin</a> | 
 <a href="https://www.instagram.com/yana.guptaa/" target="blank">Instagram</a> 
