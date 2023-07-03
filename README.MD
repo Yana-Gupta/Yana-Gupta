@@ -15,7 +15,7 @@
 
 
 
-### 👀 My Github Stats
+## 👀 My Github Stats
 
 <p align="center"> <a href="https://git.io/streak-stats"> <img alt="Yana Gupta's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Yana-Gupta&theme=dark&hide_border=false"/></a> </p>
 
@@ -24,7 +24,8 @@
 
 
 
-### 📫 Reach me out
+## 📫 Reach me out
+
 <a href="https://yanagupta.me" target="blank">Website</a> | 
 <a href="https://twitter.com/yana_guptta/" target="blank">Twitter</a> | 
 <a href="https://linkedin.com/in/Yana-Gupta" target="blank">Linkedin</a> | 
